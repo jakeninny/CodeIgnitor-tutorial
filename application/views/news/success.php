@@ -1,0 +1,1 @@
+<h2>News post successfully submitted!</h2>
